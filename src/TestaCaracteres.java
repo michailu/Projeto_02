@@ -5,7 +5,7 @@ public class TestaCaracteres {
 		
 		char letra = '#';
 		
-		System.out.println(letra);
+		System.out.println(letra); //Comentario adicionado pelo Eclipse
 	}
 
 }
