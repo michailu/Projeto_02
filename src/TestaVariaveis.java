@@ -35,7 +35,7 @@ public class TestaVariaveis {
 		
 		float numeroFloat = 949f;
 		
-		System.out.println("Teste maximo dos tipos: " + numeroLong);
+		System.out.println("Teste maximo dos tipos: " + numeroShort);
 	}
 
 }
