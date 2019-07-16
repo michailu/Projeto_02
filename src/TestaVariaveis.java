@@ -13,7 +13,7 @@ public class TestaVariaveis {
 		
 		System.out.println("Soma "+ (idade + divisao));
 
-		double novaDivisao = 5 / 2; //Calculo com inteiro o resultado sera inteiro alterado pelo Eclipse
+		double novaDivisao = 5 / 2; //Calculo com inteiro o resultado sera inteiro alterado pelo Eclipse e git hub
 		
 		System.out.println(novaDivisao);
 		
