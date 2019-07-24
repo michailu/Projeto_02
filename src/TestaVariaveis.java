@@ -2,7 +2,7 @@
 public class TestaVariaveis {
 
 	public static void main(String[] args) {
-		int idade = 42;
+		int idade = 42; // Alterado pelo projeto
 		double divisao = 5.0 / 2;
 		System.out.println("Idade " + idade);
 		System.out.println("Divisao " + divisao);
