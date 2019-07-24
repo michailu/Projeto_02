@@ -19,5 +19,6 @@ public class TestaVariaveis {
 		byte numeroByte = 127;
 		float numeroFloat = 949f;
 		System.out.println("Teste maximo dos tipos: " + numeroByte); // Comentario adicionado pelo eclipse
+		System.out.println("Teste"); // Git hub
 	}
 }
