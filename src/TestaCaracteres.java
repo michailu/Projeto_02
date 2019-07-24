@@ -6,5 +6,6 @@ public class TestaCaracteres {
 		System.out.println(letra); // Alterado arquivo que foi excluido pelo github
 		char valor = 1;
 		System.out.println(valor);
+		System.out.println("Alterado pelo git hub.");
 	}
 }
